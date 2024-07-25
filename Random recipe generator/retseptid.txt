@@ -1,0 +1,28 @@
+võileivatort : sai, hapukoor, merevaik, majonees, makra, sidrun, tuunikalakonserv, till, muna, kurk, paprika
+lasanje : pasta, tomatikaste, hakkliha, sibul, küüslauk, suvikõrvits, riivjuust, ricotta, tšilli
+kartul ja kotletid : kartul, hakkliha, hapukoor, porru, sool, pipar, riivsai
+seene-pestopasta : seened, pesto, koor, pasta
+seene-peekonipasta : seened, peekon, koor, sibul, pasta
+frikadellisupp : frikadellid, puljongikuubik, porru, kartul, porgand
+koorene lõhesupp : kartul, porgand, lõhe, puljongikuubik, koor, till
+koorene kanasupp : kartul, porgand, kana, puljongikuubik, koor
+tofukarri : tofu, maapähklivõi, lillkapsas, karri, riis, sibul, küüslauk, ingver
+kanakarri : kana, kookospiim, karri, sibul, riis
+tatrapada : tatar, uba, hakkliha, tomatikaste, sibul, paprika
+riisipanniroog : riis, uba, hakkliha, tomatikaste, sibul, paprika
+borš : viiner, peet, puljongikuubik, porru, peekon, kartul, porgand
+pitsa : jahu, vesi, pärm, tomatikaste, hakkliha, sibul, ananass
+ahjukõrvits : kõrvits, feta
+ratatouille : suvikõrvits, baklažaan, paprika, tomatikaste, sibul, küüslauk
+suvikõrvitsapirukas : suvikõrvits, toorjuust, riivjuust, lehttainas, küüslauk
+kartulipannkoogid : kartul, sibul, muna, jahu, küüslauk
+pannkoogid : jahu, vesi, õli, muna
+pasta bolognese : hakkliha, sibul, küüslauk, tomatikaste, tomat, pasta
+täidetud paprikad : paprika, hakkliha, riis, uba, sibul, küüslauk, riivjuust
+täidetud suvikõrvits : suvikõrvits, hakkliha, riis, uba, sibul, küüslauk, riivjuust
+praetud räimed : räimed, jahu, muna, sool
+lillkapsas ja kartulid : lillkapsas, viiner, riivsai, või, kartul
+hakklihakaste kartulitega : hakkliha, koor, jahu, sibul, kartul
+poke-bowl : riis, ingver, sojakaste, edamame, kurk, porgand, redis, lõhe
+riisisalat : riis, makra, mais, porgand, kurk, majonees, hapukoor, muna
+kartulisalat : kartul, majonees, hapukoor, muna, hapukurk, hernes, vorst
