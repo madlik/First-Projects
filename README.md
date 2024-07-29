@@ -3,7 +3,7 @@ This repository contains the first small projects I have done in Python:
   
 * Random recipe generator - When I thought about issues that take too much time away from my everyday life, then 2 came to find: what to wear next and what on Earth should I be cooking for next week. To solve the latter problem I created a random recipe generator, which helpes me choose a random reciple from the list of my most common recipes.
   
-* Food items list modifier - When I created the random recipe generator I had an idea to also try to synthesize it with a list of food items I already have at home. For the first step in the project I created the list for food items where I can add and remove items in the list. The next step is to synthesize the list with random recipe generation, but for now it's an ongoing process.
+* Food items list modifier - When I created the random recipe generator I had an idea to also try to synthesize it with a list of food items I already have at home. For the first step in the project I created the list for food items where I can add and remove items in the list. The next step is to synthesize the list with random recipe generation. For now it's an ongoing process, but soon I'll be able to share some results!
 
 The projects can be found on this site: https://github.com/madlik/First-Projects
 
